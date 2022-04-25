@@ -11,10 +11,12 @@ To calculate the frequency of words, you must:
 - remove "stop words" -- words used so frequently they are ignored
 - go through the file word by word and keep a count of how often each word is used
 
-When your program is complete, you should be able to run 
+When your program is complete, you should be able to run
+
 ```
 python3 word_frequency.py praise_song_for_the_day.txt
-``` 
+```
+
 and get a printed report showing the number of times each word appears in that file, formatted like this:
 
 ```
